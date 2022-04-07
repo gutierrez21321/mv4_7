@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1649194866 source:c:\users\gutie\documents\proyectos\maquinavirtual\instrucciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipos.h"
+
+1649298930 c:\users\gutie\documents\proyectos\maquinavirtual\tipos.h
+
+1649298939 source:c:\users\gutie\documents\proyectos\maquinavirtual\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tipos.h"
+
+1649194996 source:c:\users\gutie\documents\proyectos\maquinavirtual\ayudas.c
+
